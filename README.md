@@ -7,7 +7,6 @@ My name is Gift. I am just an [A]ctual [I]diot trying to make AIs
 - 💬 Ask me about anything concerning python and programming in general (I'm a nerd)
 - 📫 How to reach me: giftabumere247@gmail.com
 
-My Skill Set ?
-Doesn't mattter
-I adapt appopriately to solve the task at hand and probably Exception Googling abilities 😅
+My Skill Set?... Doesn't mattter
+I adapt appopriately to solve the task at hand but a thing to note is probably Exceptional Googling abilities 😅
 
