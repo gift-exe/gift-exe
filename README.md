@@ -1,6 +1,5 @@
 ### Hi there 👋
-My name is Gift
-just an [A]ctual [I]diot trying to make AIs
+My name is Gift. I am just an [A]ctual [I]diot trying to make AIs
 
 - 🔭 I’m currently working on a crypto price prediction model
 - 🌱 I’m currently learning LTSM models, Time Series ETC.
