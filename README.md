@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Gift and I am just an [A]ctual [I]diot trying to make AIs (See what I did there 😂💀)
+I'm Gift and I am just an [A]ctual [I]diot trying to make AIs (See what I did there 😂😐)
 
 - 🔭 I’m currently working on a Django E-commerce Website
 - 🌱 I’m currently learning Django, Keras, ML, DL, AI, Python (One at a time tho)
