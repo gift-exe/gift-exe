@@ -6,7 +6,7 @@ I'm Gift and I am just an [A]ctual [I]diot trying to make AIs (See what I did th
 - 👯 I’m looking to collaborate on creating a generic AI that can (but won't) pass the turing test 👀
 - 💬 Ask me about anything concerning python and programming in general 
 - 📫 How to reach me: giftabumere247@gmail.com
-- visit my website: gift-py.netlify.app
+- visit my website: gift-py.netlify.app (Don't be too harsh on my handwork 😅😪)
 
 My Skill Set?...  🤔🤔
 
