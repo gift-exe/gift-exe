@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 😁🤙🏿
 I'm Gift and I am just an [A]ctual [I]diot trying to make AIs (See what I did there 😂😐)
 
 - 👨🏿‍💻 I’m currently working on a Django E-commerce Website
