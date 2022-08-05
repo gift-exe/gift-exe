@@ -1,6 +1,8 @@
 ### Hola!! 😁🤙🏿
 I'm Gift, just an [A]ctual [I]diot trying to develop AIs   
-( hehe See what I did there 😂😐)
+( hehe See what I did there 😂😐)  
+
+Here's some Things to know about me 😄
 
 - 👨🏿‍💻 I’m currently working on a Django E-commerce Website
 - 🔬 I’m currently researching on ways Artificial Intelligence can make our society better
