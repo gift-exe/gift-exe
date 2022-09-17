@@ -1,6 +1,6 @@
 ### Hola!! 😁🤙🏿
-I'm Gift, just an [A]ctual [I]diot trying to develop AIs   
-( hehe See what I did there 😂😐)  
+I'm Gift, and AIs Rule
+ 
 
 Here's some Things to know about me 😄
 
