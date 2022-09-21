@@ -1,8 +1,8 @@
-### Hola!! 😁🤙🏿
-I'm Gift, and AIs Rule
+### Hola!! 🤙🏿
+I'm Gift... [The one who waits]
  
 
-Here's some Things to know about me 😄
+Here's some Things to know about me
 
 - 👨🏿‍💻 I’m currently working on a Django E-commerce Website
 - 🔬 I’m currently researching on ways Artificial Intelligence can make our society better
