@@ -10,4 +10,4 @@ Here's some Things to know about me
 - 📫 How to reach me: giftabumere247@gmail.com 
 - 🌍 visit my website: gift-py.netlify.app (It's honest work, it's not a lot! but it's honest work)
 
-(ps. I can be a little bit informal and playful but it does not mean I'm not serious minded)
+(ps. I love be a little bit informal and playful 😅)
